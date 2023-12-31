@@ -1,0 +1,101 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+.banner {
+  background-image: url(./asserts/images/Rectangle.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 100% 100%;
+  height: 100vh;
+}
+.brown {
+  color: #52361b;
+}
+.logo {
+  max-width: 150px;
+  min-width: 162px;
+}
+.p_border {
+  border: 1px dashed #52361b;
+  max-width: 430px;
+  margin-top: 90px;
+}
+.heading {
+  font-size: 67px;
+  font-weight: 500px;
+  color: #52361b;
+  text-shadow: 0px 3px 0px rgb(255, 255, 255);
+  /* margin-bottom: -28px !important; */
+}
+.heading2 {
+  font-size: 47px;
+  font-weight: 500px;
+  color: #52361b;
+  text-shadow: 0px 3px 0px rgb(255, 255, 255);
+}
+.banner_img > img {
+  max-width: 290px;
+  max-height: auto;
+  min-width: 100%;
+}
+.burger1 {
+  background-image: url(./asserts/images/burger1.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 100% 100%;
+  height: 52vh;
+}
+.burger2 {
+  background-image: url(./asserts/images/burger2.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 100% 100%;
+  height: 25vh;
+}
+.burger3 {
+  background-image: url(./asserts/images/burger3.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 100% 100%;
+  height: 25vh;
+}
+.card {
+  border: none !important;
+}
+.shadow {
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.indicator {
+  width: 10px !important;
+  height: 10px !important;
+  border-radius: 50%;
+  background-color: yellow !important;
+}
+.book {
+  background-image: url(./asserts/images/contact.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 10% 70%;
+  height: 80vh;
+}
+.footer {
+  background-image: url(./asserts/images/footer.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 100% 100%;
+  height: 80vh;
+}
+.white_logo {
+  max-width: 250px !important;
+  min-width: 200px !important;
+}
+.footer_email {
+  width: 19px;
+  height: 16px;
+}
+.p_w {
+  max-width: 350px !important;
+  min-width: 200px !important;
+}
